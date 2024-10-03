@@ -53,7 +53,7 @@ def trucbienchiant(journalist)
     trucbienchiant(journalist)
   end
 
-  puts go (journalist)
+  puts go (journalist) 
   
 
 
